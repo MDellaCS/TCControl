@@ -1,0 +1,22 @@
+.root{
+	-fx-font-size: 17.0;
+	-fx-text-alignment: CENTER;
+	-fx-base: #c3d8e8;
+    -fx-background: #73afd3;
+    -fx-font-family: Verdana;
+}
+.text-field{
+	-fx-padding: 15.0px;
+    -fx-border-insets: 5.0px;
+    -fx-background-insets: 5.0px;
+    -fx-blend-mode: multiply;
+}
+.button{
+	-fx-padding: 15.0px;
+    -fx-border-insets: 5.0px;
+    -fx-background-insets: 5.0px;
+}
+.button:hover{
+	-fx-background-color: #0096c9;
+	-fx-text-fill: white;
+}
